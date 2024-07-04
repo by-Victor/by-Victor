@@ -2,9 +2,9 @@
 
 📚 - completed training as a data analyst at Yandex Practicum
 
-💻 - I use Python and SQL languages
+💻 - use Python and SQL languages
 
-:snow
+🏂 - sport is life
 
 <!--
 **by-Victor/by-Victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
