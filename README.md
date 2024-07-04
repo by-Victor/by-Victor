@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Victor - junior analysis specialist
 
+📚 - completed training as a data analyst at Yandex Practicum
+💻 - 
+
 <!--
 **by-Victor/by-Victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
